@@ -1,0 +1,22 @@
+{
+  "name": "10-liri-node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/craigz123/node-homework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/craigz123/node-homework/issues"
+  },
+  "homepage": "https://github.com/craigz123/node-homework#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
